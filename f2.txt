@@ -1,1 +1,3 @@
 this is the second file being edited
+
+this is the latest file which we have just added.
